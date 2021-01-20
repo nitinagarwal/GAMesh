@@ -1,0 +1,6 @@
+.gamesh/*
+log/*
+out/*
+*.pyc
+models/*.pyc
+utils/*.pyc
